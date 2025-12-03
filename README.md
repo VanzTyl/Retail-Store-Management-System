@@ -30,7 +30,7 @@ This project requires a C++ compiler (like g++ or Clang) that supports the C++11
 3.  **Run:** Execute the compiled program:
 
     ```bash
-    ./retail_system
+    ./Retail_Store
     ```
 
     *(Use `Retail_Store.exe` on Windows)*
