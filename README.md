@@ -33,7 +33,7 @@ This project requires a C++ compiler (like g++ or Clang) that supports the C++11
     ./retail_system
     ```
 
-    *(Use `retail_system.exe` on Windows)*
+    *(Use `Retail_Store.exe` on Windows)*
 
 -----
 
