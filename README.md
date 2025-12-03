@@ -24,7 +24,7 @@ This project requires a C++ compiler (like g++ or Clang) that supports the C++11
 2.  **Compile:** Open your terminal or command prompt and run the following command:
 
     ```bash
-    g++ retail_system.cpp -o retail_system
+    g++ main.cpp -o Retail_Store
     ```
 
 3.  **Run:** Execute the compiled program:
